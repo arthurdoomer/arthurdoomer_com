@@ -1,0 +1,25 @@
+<!DOCTYPE html> <!-- No canal, por curiosidade e dar uma leve aprofundada ... so no firefox? como os outros gerenciam isso? Falar sobre o modo quirks, por que esqueci o doctype-->
+<html>
+<head>
+
+    <link rel="stylesheet" href="style.css">
+
+    <title>Arthur Doomer</title>
+</head>
+
+<body>
+
+    <div id="container">
+Fazer meu canal e github do lab no meu proprio site pra conseguir vaga de programador. <br>
+Video no canal, brincando com console.log. <br> 
+do objeto window e etc e que dado ele transporta e outros comandos.
+
+<form method="post" id="numeros">
+<input type="number" name="numero" />
+<input type="submit">
+</form>
+
+</div>
+<script src="script.js">
+</body>
+</html>
